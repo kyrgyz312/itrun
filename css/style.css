@@ -1,0 +1,6 @@
+#main{
+    display: inline-block;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+}
